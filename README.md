@@ -4,8 +4,7 @@ Welcome to my GitHub profile! I'm Marcelino Figueira, a passionate software deve
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning Android, Spring,
-- 👯 I’m looking to collaborate on [Types of Projects or Technologies]
+- 🌱 I’m currently learning Android, Spring.
 - 💬 Ask me about  Data, Java, Developemnt, Databases
 
 ## 🛠️ Skills
